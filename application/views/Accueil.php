@@ -18,6 +18,7 @@
       echo form_submit('valider','Valider');
       echo form_close();
       echo br(1);
+      echo "string";
     ?>
   </body>
 </html>
